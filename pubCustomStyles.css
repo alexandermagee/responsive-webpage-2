@@ -5,3 +5,24 @@
 .logoMobile {
     font-size: 1.8em;
 }
+
+.topImage {
+    height: 80vh;
+    background-image: url(./images/loija-nguyen-Lf2dvyS-d2E-unsplash.jpg);
+    background-position: top;
+    background-size: cover;
+}
+
+.topImage div {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 100%;
+}
+
+.topImageTextBox {
+    color: white;
+}
+
+.topImageText {
+    /*width: 15vw; */
+    line-height: 1.5;
+}
