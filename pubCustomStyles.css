@@ -26,3 +26,20 @@
     /*width: 15vw; */
     line-height: 1.5;
 }
+
+.firstInfoBlock {
+    margin-top: 15vh;
+}
+
+
+.infoBlock {
+    list-style: none;
+}
+
+.reserveTable {
+    border: 3px solid black;
+}
+
+.lastInfoBlock {
+    margin-bottom: 10vh;
+}
