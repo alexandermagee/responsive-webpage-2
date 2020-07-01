@@ -43,3 +43,23 @@
 .lastInfoBlock {
     margin-bottom: 10vh;
 }
+
+.pictureGallery {
+    max-height: 90vh;
+    overflow: hidden;
+    padding: 0px 0px;
+}
+
+.myCarousel {
+    overflow: hidden;
+}
+
+@media only screen and (min-width: 1000px) {
+    .positionIndicators { 
+        position: absolute;
+        top: 80vh;
+    }
+  }
+
+  
+
